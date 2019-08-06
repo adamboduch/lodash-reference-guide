@@ -5,6 +5,7 @@
 ## chunk
 
 {#chapter-1-array-chunk}
+Creates an array of elements split into groups[^chunk].
 
 ### splitting arrays in half
 
@@ -36,6 +37,8 @@ In the second call to `chunk()`, we've added another element to `array`. This me
 ## findIndex
 
 ## findLastIndex
+
+[^chunk]: [chunk documentation](https://lodash.com/docs#chunk)
 
 ## flatten
 
