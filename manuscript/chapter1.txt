@@ -1,13 +1,36 @@
-# Chapter 1
+{#chapter-1-array}
 
-This is some default content for a new Leanpub book.
+# Array
 
-You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
+## chunk
 
-Here is the download link for a zip file with the manuscript of this book: [https://github.com/leanpub/default-new-book-content/archive/master.zip](https://github.com/leanpub/default-new-book-content/archive/master.zip).
+### splitting-arrays-in-half
 
-Please note you can find our manual here: [https://leanpub.com/help/manual](https://leanpub.com/help/manual).
+If you know the length of the array, you can evenly split your array in half:
+![splitting arrays in half](code/chapter-1/chunk/splitting-arrays-in-half.js)
 
-We also have a author Help Center here: [http://help.leanpub.com/author-help](http://help.leanpub.com/author-help).
+## compact
 
-In the following chapters you'll see some simple examples of how to format your writing and how to insert images.
+## concat
+
+## difference
+
+## differenceBy
+
+## differenceWith
+
+## drop
+
+## dropRightWhile
+
+## dropWhile
+
+## fill
+
+## findIndex
+
+## findLastIndex
+
+## flatten
+
+## flattenDeep
