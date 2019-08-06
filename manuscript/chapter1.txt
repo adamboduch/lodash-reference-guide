@@ -4,7 +4,7 @@
 
 ## chunk
 
-### splitting-arrays-in-half
+### splitting arrays in half
 
 If you know the length of the array, you can evenly split your array in half:
 ![splitting arrays in half](code/chapter-1/chunk/splitting-arrays-in-half.js)
